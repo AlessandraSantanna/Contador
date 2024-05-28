@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class DesafioContador {
+public class Contador {
 public static void main(String[] args) {
     System.out.println();
     System.out.println("------CONTADOR--------");
